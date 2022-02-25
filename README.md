@@ -18,4 +18,5 @@ qbittorrent rockyou2021.txt.torrent
 		alt="Use"
 		style="float: left; margin-right: 10px;" />
 </p>
-Note, in the seeding phase it can take a long time! At this point you will click on seeding the file to get the rockyou2021.txt.
+## ¡WARNING, IN THE SEEDING PHASE IT CAN TAKE A LONG TIME! 
+### At this point you will click on seeding the file to get the rockyou2021.txt.
