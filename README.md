@@ -8,7 +8,7 @@ Millions of passwords have been posted on a Deep Web forum frequented by hackers
 		style="float: left; margin-right: 10px;" />
 </p>
 
-# Installation
+# Installation/Download
 ```
 apt install qbittorrent -y
 git clone https://github.com/halfq/Rockyou2021-100GB
