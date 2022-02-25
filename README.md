@@ -13,7 +13,7 @@ git clone https://github.com/halfq/Rockyou2021-100GB
 cd Rockyou2021-100GB
 qbittorrent rockyou2021.txt.torrent
 ```
-## ¡WARNING, IN THE SEEDING PHASE IT CAN TAKE A LONG TIME! 
+## IMPORTANT: IN THE SEEDING PHASE IT CAN TAKE A LONG TIME! 
 ### At this point you will click on seeding the file to get the rockyou2021.txt.
 <p align="center">
 <img src="Images/wordlist.jpg"
