@@ -1,5 +1,10 @@
 # Rockyou2021-100GB
-Millions of passwords have been posted on a Deep Web forum frequented by hackers. It is a 100 GB text file known as RockYou2021 which includes passwords from 6 to 20 characters, with no special characters and blank spaces removed. The number of leaked access codes amounts to more than 80 billion. O
+Millions of passwords have been posted on a Deep Web forum frequented by hackers. It is a 100 GB text file known as RockYou2021 which includes passwords from 6 to 20 characters, with no special characters and blank spaces removed. The number of leaked access codes amounts to more than 80 billion.
+<p align="center">
+<img src="Images/lock.jpg"
+		alt="Into"
+		style="float: left; margin-right: 10px;" />
+</p>
 
 # Installation
 ```
@@ -10,7 +15,7 @@ qbittorrent rockyou2021.txt.torrent
 ```
 <p align="center">
 <img src="Images/wordlist.jpg"
-		alt="First"
+		alt="Use"
 		style="float: left; margin-right: 10px;" />
 </p>
 Note, in the seeding phase it can take a long time! At this point you will click on seeding the file to get the rockyou2021.txt.
