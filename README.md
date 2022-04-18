@@ -1,4 +1,4 @@
-# Rockyou2021-100GB
+# Rockyou2021 (100GB)
 
 ### About Rockyou2021
 Millions of passwords have been posted on a Deep Web forum frequented by hackers. It is a 100 GB text file known as Rockyou2021 which includes passwords from 6 to 20 characters, with no special characters and blank spaces removed. The number of leaked access codes amounts to more than 80 billion.
